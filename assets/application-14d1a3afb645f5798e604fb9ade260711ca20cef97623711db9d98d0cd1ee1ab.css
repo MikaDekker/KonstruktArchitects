@@ -20242,7 +20242,7 @@ h3, .h3 {
 }
 
 img {
-  filter: url(http://localhost:51547/filters.svg);
+  filter: url(http://localhost:49552/filters.svg);
   /* Firefox 3.5+ */
   filter: gray;
   /* IE6-9 */
